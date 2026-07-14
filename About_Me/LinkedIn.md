@@ -16,7 +16,7 @@
 
 ## Profile Link
 
-🔗 *Add your LinkedIn profile URL here, e.g.:* `https://www.linkedin.com/in/your-profile/`
+🔗 https://www.linkedin.com/in/kaliswary-ramish/
 
 ---
 
