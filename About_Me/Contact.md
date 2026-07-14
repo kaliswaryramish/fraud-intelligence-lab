@@ -29,7 +29,6 @@ I welcome conversations with recruiters, hiring managers, and fellow fraud & fin
 | 🐙 GitHub | Portfolio & project collaboration | *Add your GitHub profile link here* |
 | 📄 Resume | Full career details | See [Resume-Placeholder.md](./Resume-Placeholder.md) |
 
-> ✏️ **To personalize:** Replace the placeholders above with your actual email address, GitHub profile URL, and any other preferred contact channels before publishing this repository publicly.
 
 
 <div align="center">
