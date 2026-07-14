@@ -24,7 +24,7 @@ I welcome conversations with recruiters, hiring managers, and fellow fraud & fin
 
 | Channel | Purpose | Link |
 |---|---|---|
-| 💼 LinkedIn | Primary professional contact point | [See [LinkedIn.md](./LinkedIn.md)](https://www.linkedin.com/in/kaliswary-ramish/) |
+| 💼 LinkedIn | Primary professional contact point | [See [[LinkedIn](https://www.linkedin.com/in/kaliswary-ramish/)] |
 | 📧 Email | Direct professional inquiries | *Add your professional email here* |
 | 🐙 GitHub | Portfolio & project collaboration | *Add your GitHub profile link here* |
 | 📄 Resume | Full career details | See [Resume-Placeholder.md](./Resume-Placeholder.md) |
