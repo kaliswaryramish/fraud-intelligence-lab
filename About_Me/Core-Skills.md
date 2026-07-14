@@ -21,7 +21,7 @@
 | Skill | Category | Proficiency |
 |---|---|---|
 | Fraud Operations | Domain | ⭐⭐⭐⭐⭐ |
-| Financial Crime (AML/KYC) | Domain | ⭐⭐⭐⭐⭐ |
+| Financial Crime (AML/KYC) | Domain | ⭐⭐⭐ |
 | Merchant Risk | Domain | ⭐⭐⭐⭐⭐ |
 | Chargebacks & Disputes | Domain | ⭐⭐⭐⭐⭐ |
 | Transaction Monitoring | Domain | ⭐⭐⭐⭐⭐ |
