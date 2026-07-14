@@ -6,7 +6,6 @@
 
 ![Fraud Prevention](https://img.shields.io/badge/Domain-Fraud%20Prevention-red?style=for-the-badge)
 ![Financial Crime](https://img.shields.io/badge/Domain-Financial%20Crime-8A2BE2?style=for-the-badge)
-![AML/KYC](https://img.shields.io/badge/Domain-AML%2FKYC-blue?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-9%2B%20Years-success?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/Tool-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -26,16 +25,13 @@
 | 1 | [Professional-Profile.md](./Professional-Profile.md) | 🧭 Executive summary of who I am professionally |
 | 2 | [Career-Journey.md](./Career-Journey.md) | 🛤️ My career timeline and evolution across fraud & financial crime |
 | 3 | [Core-Skills.md](./Core-Skills.md) | 🛠️ Technical and domain skill matrix |
-| 4 | [Awards.md](./Awards.md) | 🏆 Recognitions and achievements |
-| 5 | [Certifications.md](./Certifications.md) | 📜 Professional certifications and credentials |
-| 6 | [Professional-Philosophy.md](./Professional-Philosophy.md) | 🧠 How I think about fraud, risk, and investigations |
-| 7 | [Contact.md](./Contact.md) | 📬 How to reach me |
-| 8 | [Resume-Placeholder.md](./Resume-Placeholder.md) | 📄 Resume reference / placeholder |
-| 9 | [LinkedIn.md](./LinkedIn.md) | 🔗 LinkedIn summary and positioning |
-| 10 | [Personal-Brand.md](./Personal-Brand.md) | 🎯 My personal brand statement |
-| 11 | [Learning-Roadmap.md](./Learning-Roadmap.md) | 📚 Continuous learning plan |
-| 12 | [Professional-Values.md](./Professional-Values.md) | ⚖️ The values that guide my work |
-| 13 | [Career-Highlights.md](./Career-Highlights.md) | ✨ Notable career highlights and impact stories |
+| 4 | [Certifications.md](./Certifications.md) | 📜 Professional certifications and credentials |
+| 5 | [Professional-Philosophy.md](./Professional-Philosophy.md) | 🧠 How I think about fraud, risk, and investigations |
+| 6 | [Contact.md](./Contact.md) | 📬 How to reach me |
+| 7 | [Personal-Brand.md](./Personal-Brand.md) | 🎯 My personal brand statement |
+| 8 | [Learning-Roadmap.md](./Learning-Roadmap.md) | 📚 Continuous learning plan |
+| 9 | [Professional-Values.md](./Professional-Values.md) | ⚖️ The values that guide my work |
+| 10 | [Career-Highlights.md](./Career-Highlights.md) | ✨ Notable career highlights and impact stories |
 
 ---
 
@@ -60,7 +56,7 @@ timeline
          : Designed merchant risk scoring frameworks
     2020 : Took ownership of Transaction Monitoring
          : Implemented rule-tuning and anomaly detection processes
-    2021 : Expanded into AML/KYC
+    2021 : Expanded into KYC
          : Partnered with Compliance on suspicious activity reporting
     2022 : Senior Specialist — Risk Strategy
          : Led cross-functional fraud prevention initiatives
@@ -70,7 +66,7 @@ timeline
          : Piloted AI-augmented case triage and pattern detection
     2025 : Process Improvement & Automation
          : Built Apps Script and Tableau tools for team-wide efficiency
-    2026 : Targeting Manager-Level Roles
+    2026 : Targeting management Level Roles
          : Seeking global fraud & financial crime leadership opportunities
 ```
 
